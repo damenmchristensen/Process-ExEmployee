@@ -8,7 +8,7 @@ param(
 )
 
 #Load the logging script
-.'\Write-Log-COPY.ps1'
+.'\Write-Log.ps1'
 
 #Add the Exchange snap in
 Add-PSSnapin Microsoft.Exchange.Management.PowerShell.E2010
