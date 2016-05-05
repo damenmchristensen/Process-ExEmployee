@@ -31,7 +31,7 @@ param (
 #>
 
 #Import Logging function
-.'\Write-Log-COPY.ps1'
+.'\Write-Log.ps1'
 
 
 
